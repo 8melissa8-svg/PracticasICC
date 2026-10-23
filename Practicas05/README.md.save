@@ -1,0 +1,15 @@
+# Práctica 5: Estimación de Pi (Monte Carlo)
+
+Este proyecto implementa la estimación del número Pi usando el método Monte Carlo en Java.
+
+## Estructura del Proyecto
+- `src/`: Archivos de código fuente (.java)
+- `bin/`: Archivos compilados (.class)
+- `doc/`: Documentación y reportes
+- `README.md`: Instrucciones y descripción del proyecto
+
+## Compilación y Ejecución
+
+Para compilar todo el proyecto:
+```bash
+javac -d bin src/*.java
